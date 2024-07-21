@@ -1,0 +1,11 @@
+{
+    "name": "TVLT TEST",
+    "description": "TESTESTEST",
+    "image": "https://imgur.com/caRq59V",
+    "attributes": [
+        {
+            "trait_type": "1111",
+            "value": "10,000"
+        }
+    ]
+}
